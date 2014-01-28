@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  Gyazo
+//  Gyaile
 //
 //  Created by Isshu Rakusai on 12/15/11.
 //  Copyright (c) 2011 Nota Inc. All rights reserved.
